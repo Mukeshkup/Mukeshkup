@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshkup&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshkup" /> </p>
 
-- 🔭 I’m currently working on **Sanchaar and Dhristi**
+-- 🔭 I’m currently working on **Sanchaar and Dhristi**
 
 - 🌱 I’m currently learning **ML and Cloud**
 
