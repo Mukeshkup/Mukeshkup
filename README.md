@@ -1,4 +1,4 @@
-![logo](https://github.com/Mukeshkup/Mukeshkup/blob/main/banner.gif)
+![logo](https://github.com/Mukeshkup/Mukeshkup/blob/main/custom%20banner.mp4)
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
 <h3 align="center">Passion for Data Science, Machine Learning and Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
