@@ -5,14 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshkup&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshkup" /> </p>
 
--- 🔭 I’m currently working on **Sanchaar and Dhristi**
-
-- 🌱 I’m currently learning **ML and Cloud**
-
-- 💬 Ask me about **Java,Python,AI,ML,Deep Learning**
-
-- 📫 How to reach me **mukeshpadhi07@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-kumar-padhi-540429254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-kumar-padhi-540429254" height="30" width="40" /></a>
